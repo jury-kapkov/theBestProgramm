@@ -1,0 +1,4 @@
+MESSAGEBOX("Таблица "Заказчики"")
+Error in line 203: Function name is missing ).
+MESSAGEBOX("Таблица "Заказы"")
+Error in line 220: Function name is missing ).
